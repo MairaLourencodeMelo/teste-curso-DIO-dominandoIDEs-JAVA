@@ -1,0 +1,31 @@
+IDE: Eclipse!
+Atalhos importantes para JAVA: 
+
+- Para renomear o package: f2;
+- Criação de nova classe: ctrl + n;
+- Obs.: Cada pontinho que se é colocado separa uma pasta. Ex.: br.com.dio
+- Para expandir a tela: ctrl + n;
+- No exemplo da aula foi criada uma classe com o nome "Gato", na hora da criação não foi preciso marcar a opção "main" pois é um modelo;
+- Aumentar e diminuir a fonte: ctrl+ ou ctrl-;
+- Após a criação dos atritubos, tem a criação dos construtores. 
+ex.: private String nome;
+     private String cor;
+     public Gato(String nome, String cor){
+	this.nome = nome;
+	this.cor = cor;
+- Para deixar como comentário é: /*(abrir) e */(fechar);
+- Para a criação do construtor é necessário comentar a parte "Public Gato..." e apertar Ctrl+3;
+- Após o passo acima é clicar na opção: constructor using fields (criação do construtor com os atributos);
+- Para apagar uma linha: ctrl + d;
+- Para criar construtor Getters and Setters: Ctrl+3 e selecionar a opção correspondente;
+- Para criar HashCode and Equal é o mesmo passo acima;
+- Para criar o toString é o mesmo passo acima, em todos é possível selecionar todos os atributos ou alguns;
+- Para mudar o bloco de lugar: alt + seta para cima ou para baixo;
+- Se o código estiver bagunçado: ctrl + shift + f e o código se organiza para o lugar que estava;
+- Se for criar um objeto "Gato", retorno para o projeto anterior(main) e a criação se deve da seguinte forma: SegundoTeste gato = new SegundoTeste();
+- Para realizar a importação da classe para a aba do objeto: ctrl + shift + o;
+- Print: System.out.println();
+
+
+
+
